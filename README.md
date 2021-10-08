@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @wojo1206
+# 👋 Hi, I’m Voytec
 
 I do a lot of programming, especailly web, whenever I can. 
 
